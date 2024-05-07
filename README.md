@@ -1,4 +1,4 @@
-# Paper-List
+# Knowledges about MLLMs
 This repository is about security on multimodal large-scale language models (MLLMs). 
 Firstly, it contains basic characteristics of the mainstream models, and these MLLMs are classified into several types simply. 
 Then, it introduces threats on different MLLMs, mainly about adversarial attack. 
